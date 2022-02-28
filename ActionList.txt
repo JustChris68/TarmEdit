@@ -1,0 +1,26 @@
+user callable actions
+        
+
+Quit (add save check to existing)
+New -create pop up for setting new map parameters
+Save - simple file save
+SaveAs - simple file saveas
+Copy - no idea
+Cut - no idea
+Paste - no idea
+AddLayer 
+EditLayer
+LayerBrowser
+DeleteLayer
+CollectBrowser
+EditCollect
+AddCollect
+DeleteCollect
+About
+NewCollect
+EditAsset
+AssetBrowser
+ImportAsset
+    
+        
+    
